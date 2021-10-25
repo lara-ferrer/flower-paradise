@@ -181,6 +181,12 @@ a.btn-gold:hover, input.btn-gold:hover {
     top: 35%;
 }
 
+.slider-1, .slider-2, .slider-3 {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .slider-1 {
   background-image: url('../img/slider-1.jpg');
 }
